@@ -1,0 +1,44 @@
+ASP.NET CORE WEB API
+
+CONSOLA DE ADMINISTRADOR DE PAQUETES
+
+---------------
+
+click derecho en controllers
+agregar
+scaffold
+api
+api con entityframwork
+darle al entity que estamos trabajando
+-----------------
+
+
+//Crear Carpetass
+DTO
+Interfaces
+Repositories
+
+// REPOSITORIES
+agregar clase
+clase
+-completar codigo xd-
+(cambiar a public)
+click derecho
+acciones rápida extraer interfaz
+extraer interfaces
+
+//USERSERVICE
+agregar userService
+cambiar a public
+crear interfaz
+ir a programs y agregar tanto interfaz de repositroio y service
+
+//CONTROLLER
+Agregar Controlador
+api en blanco
+
+//AGREGAR REPOSITORY EN
+Program.cs
+
+
+//EL METODO PUD debe coincidir el id con el id
